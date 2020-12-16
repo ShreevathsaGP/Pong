@@ -1,2 +1,2 @@
 # Pong
-I bored and had 60 minutes to spare.
+I was bored and had 60 minutes to spare.
